@@ -1,16 +1,13 @@
-## Hi there 👋 Pooja K N here!!
-## 📍am from Tumkur
+## Hi there 👋! I'm Pooja K N here!!
+## Full Stcak Devloper With java ,Sql,Web Technologies.
+## From Tumkur
+##Aspiring java Developer with a focus on secure and scalable applications
 
-**pooja.k.N** is a  Full stack java  developer with data base database connection  
-
--Here are some ideas to get you started:
+ 
 ---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently building hands-on projects as part of my training and final yera work.
+- 🌱 I’m currently learning:advance java ,DSA with java,JDBC,Hibernate,Spring,Spring Boot and Servelets
+- 📫 How to reach me: poojanatraj853@gmail.com
+- ⚡ Fun fact: I collect coding jokes... here's one: A SQL query walks into a bar, walks up to two tables and says:
+"Can I join you?"💻
 
