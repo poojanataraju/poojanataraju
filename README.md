@@ -1,7 +1,7 @@
 ## Hi there 👋! I'm Pooja K N here!!
 ## Full Stcak Devloper With java ,Sql,Web Technologies.
 ## From Tumkur
-##Aspiring java Developer with a focus on secure and scalable applications
+## Aspiring java Developer with a focus on secure and scalable applications
 
  
 ---
